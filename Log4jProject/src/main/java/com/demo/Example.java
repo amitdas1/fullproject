@@ -11,6 +11,7 @@ public class Example {
     System.out.println("/n hello");	
     LOGGER.info("hiii");	
     LOGGER.error("hiiii"+x);
+    LOGGER.debug("debug mode");
     }
 
     /*private static int doSomeCalculation() {
